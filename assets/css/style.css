@@ -1,0 +1,22 @@
+:root{
+    --clr-neutral-100: #F9F9F9;
+    --clr-primary-800: #13131F;
+    --clr-primary-700: #212121;
+    --clr-primary-400: #828282;
+    --clr-secondary-400: #8257E6;
+
+    --ff-base: "DM Sans", sans-serif;
+    --ff-secondary: Poppins, sans-serif;
+
+    --fw-regular: 400;
+    --fw-semi-bold: 500;
+    --fw-bold: 700;
+
+    --fs-200: 1.4rem;
+    --fs-300: 1.6rem;
+    --fs-400: 1.8rem;
+    --fs-500: 2rem;
+    --fs-600: 2.4rem;
+    --fs-700: 3.2rem;
+    --fs-800: 4.2rem;
+}
